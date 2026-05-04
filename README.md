@@ -67,7 +67,3 @@ As a college instructor, I guide students in building capstone and real-world IT
 * **Wrote my first line of code** @ *Hello World* (2017)
 
 ---
-
-## 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
