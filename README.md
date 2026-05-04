@@ -69,15 +69,5 @@ As a college instructor, I guide students in building capstone and real-world IT
 ---
 
 ## 📊 GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-*(You can enable dynamic stats by adding [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) here!)*
-
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ernesto4218&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=777777" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernesto4218&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=777777" />
-</p>
-
----
-<p align="center">
-  <i>Building the future of the web, one component at a time.</i>
-</p>
