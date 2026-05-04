@@ -78,6 +78,19 @@
 
 <br />
 
+## 🏆 Certificates & Awards
+
+| Title | Issuer | Date | Type |
+| :--- | :--- | :--- | :--- |
+| **Proficiency Award** | ZDSPGC Pagadian Campus | July 2025 | 🥇 Award |
+| **Best in Programming** | ZDSPGC Pagadian Campus | July 2025 | 🥇 Award |
+| **Hands-On Essentials: Data Engineering Workshop** | Snowflake | Jan 2025 | 📜 Certificate ([Verify](https://achieve.snowflake.com/e4bbcdd1-73c7-4f3c-94e5-8a9e1e89179c#acc.fiueb0ky)) |
+| **Data Lake Workshop** | Snowflake | Jan 2025 | 📜 Certificate ([Verify](https://achieve.snowflake.com/f79c02d6-b1d6-4637-b362-e608913c516c#acc.4xFlUbSj)) |
+| **Data Warehousing Workshop** | Snowflake | Dec 2024 | 📜 Certificate ([Verify](https://achieve.snowflake.com/89922720-8cbf-47e5-aaf0-445f82040dc6#acc.Lzd2CciB)) |
+| **Contemporary Studies in Management** | Silliman University | Nov 2024 | 📜 Certificate |
+
+<br />
+
 ## 💼 Professional Journey
 
 * 👨‍🏫 **BSIS Instructor** — *ZDSPGC Pagadian Campus* `(Present)`
@@ -88,11 +101,12 @@
 
 <br />
 
-## 📈 GitHub Activity
+## 📈 GitHub Activity & Streaks
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ernesto4218&show_icons=true&theme=tokyonight&hide_border=true&title_color=3b82f6&icon_color=3b82f6" alt="Ernesto's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernesto4218&layout=compact&theme=tokyonight&hide_border=true&title_color=3b82f6" alt="Ernesto's Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ernesto4218&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Ernesto's Trophies" />
+  <br /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ernesto4218&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117" alt="Ernesto's GitHub Streak" />
 </div>
 
 ---
